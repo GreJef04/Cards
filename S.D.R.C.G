@@ -1,4 +1,4 @@
-//GoW v0.01
+//GoW v0.02
  
 #include <stdio.h>
 #include <stdlib.h>
